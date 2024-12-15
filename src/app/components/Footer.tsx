@@ -18,7 +18,7 @@ const Footer = () => {
             <a className="text-gray-600 hover:text-gray-800">Home</a>
           </li>
           <li className='my-2'>
-            <a className="text-gray-600  hover:text-gray-800 ">Shop</a>
+          <a className="text-gray-600  hover:text-gray-800 ">Shop</a>
           </li>
           <li>
             <a className="text-gray-600 hover:text-gray-800">About</a>
