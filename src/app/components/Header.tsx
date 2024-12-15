@@ -17,7 +17,7 @@ const Header = () => {
   };
 
   return (
-    <header className="bg-white shadow-md">
+    <header className="bg-yellow-400 shadow-md">
       <div className="flex justify-between items-center py-4 px-6">
         {/* Logo Section */}
         <h1 className="text-2xl font-bold text-gray-800">Ecommerce Web</h1>

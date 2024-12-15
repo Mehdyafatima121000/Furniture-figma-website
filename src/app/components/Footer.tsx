@@ -12,7 +12,7 @@ const Footer = () => {
       
       </div>
       <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-        <h2 className="title-font font-medium font-bold text-gray-900 tracking-widest text-sm mb-3">Links</h2>
+        <h2 className="title-font font-bold text-gray-900 tracking-widest text-sm mb-3">Links</h2>
         <nav className="list-none mb-10">
           <li>
             <a className="text-gray-600 hover:text-gray-800">Home</a>
@@ -61,7 +61,7 @@ const Footer = () => {
     <div className="container px-5 py-6 mx-auto flex items-center sm:flex-row flex-col">
       <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
        
-        <span className="ml-3 text-xl">Eccomerce</span>
+        <span className="ml-3 text-xl">Ecommerce</span>
       </a>
       <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">© 2024 Meubel House. All rights reverved
       </p>
